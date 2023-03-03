@@ -1,4 +1,4 @@
-### HELLO BUDDY! I'm Tol'ambo. Best wishes!8) 👋
+### Hello Buddy! I'm Tol'ambo. Welcome!8) 👋
 
 <!--
 **tolambo/tolambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
