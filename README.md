@@ -1,4 +1,4 @@
-### Hello Buddy! I'm Tol'ambo. Welcome! JS do it)
+### Hello Buddy! I'm Tol'ambo. Welcome!)
 
 <!--
 **tolambo/tolambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
